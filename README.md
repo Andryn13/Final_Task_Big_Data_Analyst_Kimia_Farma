@@ -18,6 +18,6 @@ Proyek ini menganalisis kinerja bisnis Kimia Farma dari 2020 hingga 2023, mencak
 3. Export schema jika diperlukan (folder `docs/`).
 4. Dashboard Looker Studio bisa diakses melalui link di `dashboard/report_links.md`.
 
-Link Youtube: 
-Link Dashboard: https://lookerstudio.google.com/reporting/9c32be1c-2207-4826-acc4-e0a337d7751a
-Link PPT: https://docs.google.com/presentation/d/13yMv6_y58StAybe9Hy6klLOy6u0R08AA/edit?usp=sharing&ouid=100793146373960982002&rtpof=true&sd=true
+Link Youtube: https://youtu.be/w4hsAo0MjOo //
+Link Dashboard: https://lookerstudio.google.com/reporting/9c32be1c-2207-4826-acc4-e0a337d7751a //
+Link PPT: https://docs.google.com/presentation/d/13yMv6_y58StAybe9Hy6klLOy6u0R08AA/edit?usp=sharing&ouid=100793146373960982002&rtpof=true&sd=true //
